@@ -1,4 +1,4 @@
-ChatGPT + LaTex
+# ChatGPT + LaTex
 
 ## Project Description
 
