@@ -1,7 +1,4 @@
-# latex-generator
-GPT-Latex project. 
-
-# Proposal Document: Integrating ChatGPT and LaTex
+ChatGPT + LaTex
 
 ## Project Description
 
